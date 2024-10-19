@@ -1,0 +1,2 @@
+- code for the blog post about relational deep learning
+- I can this in a google colab with CUDA, kaggle somehow didn't work.
